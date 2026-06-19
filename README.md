@@ -348,9 +348,6 @@ Extracted Claims:
 * Explanation Generation
 * Claim Extraction
 * End-to-End Pipeline
-
-## Next Steps
-
 * Retrieval Evaluation
 * Dense vs BM25 vs Hybrid Comparison
 * Claim Extractor V2
